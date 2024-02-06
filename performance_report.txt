@@ -1,0 +1,66 @@
+Sorted algorithm - BubbleSort
+Sorted 100 elements in 0.12647 ms
+Sorted 500 elements in 0.41014 ms
+Sorted 1000 elements in 0.86061 ms
+Sorted 2000 elements in 3.05849 ms
+Sorted 5000 elements in 21.34049 ms
+Sorted 10000 elements in 88.64751 ms
+Sorted 20000 elements in 417.38035 ms
+Sorted 75000 elements in 6388.45491 ms
+Sorted 150000 elements in 24993.15691 ms
+
+Sorted algorithm - InsertionSort
+Sorted 100 elements in 0.05445 ms
+Sorted 500 elements in 0.20875 ms
+Sorted 1000 elements in 0.54024 ms
+Sorted 2000 elements in 0.30156 ms
+Sorted 5000 elements in 1.80418 ms
+Sorted 10000 elements in 7.09468 ms
+Sorted 20000 elements in 28.30508 ms
+Sorted 75000 elements in 441.25670 ms
+Sorted 150000 elements in 1660.73111 ms
+
+Sorted algorithm - SelectionSort
+Sorted 100 elements in 0.09921 ms
+Sorted 500 elements in 0.21572 ms
+Sorted 1000 elements in 0.27879 ms
+Sorted 2000 elements in 0.89268 ms
+Sorted 5000 elements in 5.33665 ms
+Sorted 10000 elements in 22.91396 ms
+Sorted 20000 elements in 91.17774 ms
+Sorted 75000 elements in 1199.42983 ms
+Sorted 150000 elements in 4623.00489 ms
+
+Sorted algorithm - ShellSort
+Sorted 100 elements in 0.01828 ms
+Sorted 500 elements in 0.08705 ms
+Sorted 1000 elements in 0.11897 ms
+Sorted 2000 elements in 0.14566 ms
+Sorted 5000 elements in 0.30419 ms
+Sorted 10000 elements in 0.67118 ms
+Sorted 20000 elements in 1.49953 ms
+Sorted 75000 elements in 6.14067 ms
+Sorted 150000 elements in 13.01271 ms
+
+Sorted algorithm - QuickSort
+Sorted 100 elements in 0.02551 ms
+Sorted 500 elements in 0.02967 ms
+Sorted 1000 elements in 0.05847 ms
+Sorted 2000 elements in 0.15702 ms
+Sorted 5000 elements in 0.37832 ms
+Sorted 10000 elements in 0.50935 ms
+Sorted 20000 elements in 1.17189 ms
+Sorted 75000 elements in 5.78172 ms
+Sorted 150000 elements in 15.43261 ms
+
+Sorted algorithm - MergeSort
+Sorted 100 elements in 0.02718 ms
+Sorted 500 elements in 0.05356 ms
+Sorted 1000 elements in 0.12224 ms
+Sorted 2000 elements in 0.24099 ms
+Sorted 5000 elements in 0.47801 ms
+Sorted 10000 elements in 1.05199 ms
+Sorted 20000 elements in 2.02830 ms
+Sorted 75000 elements in 7.14059 ms
+Sorted 150000 elements in 12.40249 ms
+
